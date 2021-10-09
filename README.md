@@ -11,3 +11,134 @@ All symbols consist of official symbol characters, symbol names and meanings lis
 
 The easiest way to quickly **copy and paste symbols**.
 ### List of Corner Symbols
+- ﹄ Presentation Form for Vertical Right White Corner Bracket
+- ﹃ Presentation Form for Vertical Left White Corner Bracket
+- ﹂ Presentation Form for Vertical Right Corner Bracket
+- ﹁ Presentation Form for Vertical Left Corner Bracket
+- ┕ Box Drawings Up Light and Right Heavy
+- ┓ Box Drawings Heavy Down and Left
+- └ Box Drawings Light Up and Right
+- ┐ Box Drawings Light Down and Left
+- ┖ Box Drawings Up Heavy and Right Light
+- ┒ Box Drawings Down Heavy and Left Light
+- ┗ Box Drawings Heavy Up and Right
+- ┑ Box Drawings Down Light and Left Heavy
+- ┍ Box Drawings Down Light and Right Heavy
+- ┙ Box Drawings Up Light and Left Heavy
+- ┏ Box Drawings Heavy Down and Right
+- ┛ Box Drawings Heavy Up and Left
+- ┎ Box Drawings Down Heavy and Right Light
+- ┚ Box Drawings Up Heavy and Left Light
+- ┌ Box Drawings Light Down and Right
+- ┘ Box Drawings Light Up and Left
+- 「 Left Corner Bracket
+- 」 Right Corner Bracket
+- 『 Left White Corner Bracket
+- 』 Right White Corner Bracket
+- ˩ Modifier Letter Extra-Low Tone Bar
+- ˥ Modifier Letter Extra-High Tone Bar
+- ├ Box Drawings Light Vertical and Right
+- ┝ Box Drawings Vertical Light and Right Heavy
+- ┞ Box Drawings Up Heavy and Right Down Light
+- ┟ Box Drawings Down Heavy and Right Up Light
+- ┠ Box Drawings Vertical Heavy and Right Light
+- ┡ Box Drawings Down Light and Right Up Heavy
+- ┢ Box Drawings Up Light and Right Down Heavy
+- ┣ Box Drawings Heavy Vertical and Right
+- ┤ Box Drawings Light Vertical and Left
+- ┥ Box Drawings Vertical Light and Left Heavy
+- ┦ Box Drawings Up Heavy and Left Down Light
+- ┧ Box Drawings Down Heavy and Left Up Light
+- ┨ Box Drawings Vertical Heavy and Left Light
+- ┩ Box Drawings Down Light and Left Up Heavy
+- ┪ Box Drawings Up Light and Left Down Heavy
+- ┫ Box Drawings Heavy Vertical and Left
+- ┬ Box Drawings Light Down and Horizontal
+- ┭ Box Drawings Left Heavy and Right Down Light
+- ┮ Box Drawings Right Heavy and Left Down Light
+- ┯ Box Drawings Down Light and Horizontal Heavy
+- ┰ Box Drawings Down Heavy and Horizontal Light
+- ┱ Box Drawings Right Light and Left Down Heavy
+- ┲ Box Drawings Left Light and Right Down Heavy
+- ┳ Box Drawings Heavy Down and Horizontal
+- ┴ Box Drawings Light Up and Horizontal
+- ┵ Box Drawings Left Heavy and Right Up Light
+- ┶ Box Drawings Right Heavy and Left Up Light
+- ┷ Box Drawings Up Light and Horizontal Heavy
+- ┸ Box Drawings Up Heavy and Horizontal Light
+- ┹ Box Drawings Right Light and Left Up Heavy
+- ┺ Box Drawings Left Light and Right Up Heavy
+- ┻ Box Drawings Heavy Up and Horizontal
+- ┼ Box Drawings Light Vertical and Horizontal
+- ┽ Box Drawings Left Heavy and Right Vertical Light
+- ┾ Box Drawings Right Heavy and Left Vertical Light
+- ┿ Box Drawings Vertical Light and Horizontal Heavy
+- ╀ Box Drawings Up Heavy and Down Horizontal Light
+- ╁ Box Drawings Down Heavy and Up Horizontal Light
+- ╂ Box Drawings Vertical Heavy and Horizontal Light
+- ╃ Box Drawings Left Up Heavy and Right Down Light
+- ╄ Box Drawings Right Up Heavy and Left Down Light
+- ╅ Box Drawings Left Down Heavy and Right Up Light
+- ╆ Box Drawings Right Down Heavy and Left Up Light
+- ╇ Box Drawings Down Light and Up Horizontal Heavy
+- ╈ Box Drawings Up Light and Down Horizontal Heavy
+- ╉ Box Drawings Right Light and Left Vertical Heavy
+- ╊ Box Drawings Left Light and Right Vertical Heavy
+- ╋ Box Drawings Heavy Vertical and Horizontal
+- ╒ Box Drawings Down Single and Right Double
+- ╕ Box Drawings Down Single and Left Double
+- ╓ Box Drawings Down Double and Right Single
+- ╖ Box Drawings Down Double and Left Single
+- ╔ Box Drawings Double Down and Right
+- ╗ Box Drawings Double Down and Left
+- ╘ Box Drawings Up Single and Right Double
+- ╛ Box Drawings Up Single and Left Double
+- ╙ Box Drawings Up Double and Right Single
+- ╜ Box Drawings Up Double and Left Single
+- ╚ Box Drawings Double Up and Right
+- ╝ Box Drawings Double Up and Left
+- ╞ Box Drawings Vertical Single and Right Double
+- ╡ Box Drawings Vertical Single and Left Double
+- ╟ Box Drawings Vertical Double and Right Single
+- ╢ Box Drawings Vertical Double and Left Single
+- ╠ Box Drawings Double Vertical and Right
+- ╣ Box Drawings Double Vertical and Left
+- ╥ Box Drawings Down Double and Horizontal Single
+- ╨ Box Drawings Up Double and Horizontal Single
+- ╧ Box Drawings Up Single and Horizontal Double
+- ╤ Box Drawings Down Single and Horizontal Double
+- ╦ Box Drawings Double Down and Horizontal
+- ╩ Box Drawings Double Up and Horizontal
+- ╪ Box Drawings Vertical Single and Horizontal Double
+- ╫ Box Drawings Vertical Double and Horizontal Single
+- ╬ Box Drawings Double Vertical and Horizontal
+- 〒 Postal Mark
+- ⊢ Right Tack
+- ⊣ Left Tack
+- ⊤ Down Tack
+- ⊥ Up Tack
+- ╭ Box Drawings Light Arc Down and Right
+- ╮ Box Drawings Light Arc Down and Left
+- ╯ Box Drawings Light Arc Up and Left
+- ╰ Box Drawings Light Arc Up and Right
+- ⊦ Assertion
+- ⊧ Models
+- ⊨ True
+- ⊩ Forces
+- ⊪ Triple Vertical Bar Right Turnstile
+- ⊫ Double Vertical Bar Double Right Turnstile
+- ⊬ Does Not Prove
+- ⊭ Not True
+- ⊮ Does Not Force
+- ⊯ Negated Double Vertical Bar Double Right Turnstile
+- ⊺ Intercalate
+- 〦 Hangzhou Numeral Six
+- 〧 Hangzhou Numeral Seven
+- 〨 Hangzhou Numeral Eight
+- ˦ Modifier Letter High Tone Bar
+- ˧ Modifier Letter Mid Tone Bar
+- ˨ Modifier Letter Low Tone Bar
+- ⑁ Ocr Chair
+- ⑂ Ocr Fork
+- ⑃ Ocr Inverted Fork
+- ∟ Right Angle
